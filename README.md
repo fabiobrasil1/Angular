@@ -1,3 +1,2 @@
 # Angular
-
-# Base app Angular
+ Base app Angular
